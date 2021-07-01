@@ -1,4 +1,7 @@
-# Marvelous-SFC-EN v1.06
+# MiYaku Gaming's Marvelous-SFC-EN V0.1 English Translation
+This is an original Translation from Japanese to English by MiYaku Gaming based on the original project, credits for all programming, hacking and more go to the original Team.
+
+Instructions by the original Team, not by MiYaku Gaming:
 Translation repository for Marvelous: Another Treasure Island for the Super Famicom
 
 Included are all the files related to the english release made on romhacking.net
