@@ -1,28 +1,28 @@
 [en2]
 
-[nl2]    What's this?![en2]
+[nl2]    What's this thing?![en2]
 
-[nl2]We have to get closer![en2]
+[nl2]There's no getting closer to gather![en2]
 Message failure.[en2]
 ...Huh? 
-[nl2]How can we hear 
-[nl3]Miss Gina's voice...[np]
-[scl]There are two of her??
-[scl]...What in the...?[en1]
-Did you get the item
-[nl2]from the grave?[en1]
+[nl2]Sensei's voice can definitely be heard here... 
+[nl3]There are two Sensei's here?[np]
+[scl]Test
+[scl]......What's the meaning of this?[en1]
+Perhaps you got the item
+[nl2]inside the Tomb?[en1]
 
-[nl2]    No, not that![en2]
-Chirpy chirp![np]
-[nl2]TL: Here we are, home
-[nl3]sweet camp.[np]
-[scl]Are you ready?[en1]
-Muuuha! Hayaah!
-[nl2]Don't distract me, it'll
-[nl3]get away![np]
-[scl]Guraaah, this is the
-[scl]big one!![en2]
-Chirpy-chirp.[np]
+[nl2]    It's not like that![en2]
+Piroppii, piroro![np]
+[nl2]Meaning: Weeell, certainly arrived at the long awaited
+[nl3]Camp Island.[np]
+[scl]Aren't you prepared?[en1]
+Umumumu! Yoh, hah! Torya---!
+[nl2]Don't talk to me, I'll be
+[nl3]completely exposed![np]
+[scl]Guoooo! Mu, that thing must
+[scl]be huge!![en2]
+Piroppi, Piroro.[np]
 [nl2]TL: I'm gonna go ahead
 [nl3]and wait for you.[np]
 [scl]Winky, let's go![en1]
